@@ -1,0 +1,26 @@
+
+h1 {
+	justify-content: center;
+}
+body {
+}
+.row {
+	display:flex;
+	padding: 1%;
+}
+.column-1, .column-2 {
+	flex:1;
+	text-align: center;
+	padding: 4%;
+	border: 3px solid yellow;
+	margin: 2%;
+
+}
+img {
+	width: 25%;
+	border-radius: 60%;
+
+}
+p {
+	text-align:justify;
+}
